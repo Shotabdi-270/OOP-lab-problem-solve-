@@ -10,4 +10,5 @@ public class stdin_stdout{
         System.out.println(b);
         System.out.println(c);
     }
+    
 }
